@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Web 26 Demo</h1>
+      <h1>Web 26 Demo Now</h1>
       <h2>
         Deployed with{' '}
         <a
